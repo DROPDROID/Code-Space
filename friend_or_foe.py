@@ -14,5 +14,3 @@ def friend(x):
     print(res)
 
 friend({"Ryan", "Kieran", "Jason", "Yous"})
-
-# new line
